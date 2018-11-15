@@ -1,7 +1,7 @@
 | 组号 | 组名 | 组员 | 仓库地址 | 项目 | 
 |:---:|:---:|:---:|:---:|:---:|
 |1|NoProblem|张强（组长）	熊毅	刘海新	张振东	肖敬斐|https://github.com/zhangqiang216/softwareengineering-NOPROBLEM|新·机核|
-|2|乘风破浪|刘雪晴（组长）	顾凯峰	王浩权	于洋|https://github.com/liuxueqing1023/soft|
+|2|乘风破浪|刘雪晴（组长）	顾凯峰	王浩权	于洋|https://github.com/liuxueqing1023/soft|NoPW|
 |3|lwyz|杨凯静（组长）	左林嶷	连鸿霄	王禹婕|https://github.com/qingzhenglive/lwyz|达岸|
 |4|只是名字|丁路（组长）	张家旺	齐放	王鑫钰	刘振扬 韦宇杰|https://github.com/dinglu1/thisname|  玩转食堂  |
 |5|彩虹小马|范艺琳（组长） 付饶 安琪 孟雪冰 郑宁宁 杨斯媛|https://github.com/fanyilin0128/SoftwareProcess|爱宠大机密|
@@ -14,7 +14,7 @@
 |12|SE-Team|段晓月（组长） 陈梦萱 王东慧 李亚冰 贾欣蕊 赵洋|https://github.com/duanxiaoyue/SE-Team|即刻空间|
 |13|白与黑|张敏瑞（组长） 李英杰 生春月 张茜贤 赵璐 李伟娟	|https://github.com/zhangminrui/white-and-black|  吃货路线  |
 |14|UPUP|史素佳（组长） 岳哲伟  杨天莹  刘江|https://github.com/lovejiajia1997/UPUPUP|51速助|
-|15|火箭队|宋晓娇（组长） 刘海迪 于俊伟 王浩馨  秦一诺  刘宸|https://github.com/Moronjiao/huojiandui|  爱看小说城  |
+|15|火箭队|宋晓娇（组长） 刘海迪 于俊伟 王浩馨  秦一诺  刘宸|https://github.com/Moronjiao/huojiandui|  天生创想OA协同办公软件测试  |
 |16|目不转睛|‌刘琪（组长） 尹璐 黄瑾然 王得润 （程子健、韦士杰待调整）|https://github.com/gaya0214/software-process|蝉知|
 |17|Top1|‌‌‌李铭飞（组长）  王鹏赫 郑宏勇 孙东墨 刘宇豪|https://github.com/li-ming-fei/course-software|财神电影|
 |18|FLZ|‌‌‌冯嘉星（组长） 李欣然 冯敏 甄攀星 张玉|https://github.com/fengjiaxing666/software-process|英语通|
