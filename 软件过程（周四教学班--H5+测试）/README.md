@@ -10,7 +10,7 @@
 |8| 焰之队| 刘子雪（组长）	李叶	尹雨佳	李润川|https://github.com/liuzixue1998/fireteam|西遇|
 |9| OLGB| 魏佳（组长）	陈培莹	沈梦琪	姚静 王秀莲 卢丹琦|https://github.com/weijia0208/software-process|蚂蚁寻物|
 |10| jpg| 纪朝萍（组长）	潘凯亚	郭诗博|https://github.com/JIZHAOPING/Software-engineer|指尖医疗|
-|11| 彩笔队| 付子旺（组长）	王岑	杜雪	范丽梅	管欣悦	顾苏彤|https://github.com/fuziwang/software|HomeTime|
+|11| 彩笔队| 付子旺（组长）	王岑	杜雪	范丽梅	管欣悦	顾苏彤|https://github.com/fuziwang/software|悦成长|
 |12| 一叶知秋| 王清顺（组长）	郭佳昊	陈自力	朱泓宇	张成成	闫博文|https://github.com/wangqingshun/software-engineering|cut|
 |13| The one | 李文轩（组长）	冯世祺	马硕	刘冉|https://github.com/Aluaead/Software-Engineering|所及|
 |14| xiaoxiaozu| 朱子安（组长）	王子龙	马瑞华	白新正	郑栋文	邝绅绅|https://github.com/zhuzian/software-process-xiaoxiaozu|同城驾考|
