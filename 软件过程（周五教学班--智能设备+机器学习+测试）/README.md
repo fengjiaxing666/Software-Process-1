@@ -6,7 +6,7 @@
 |4|只是名字|丁路（组长）	张家旺	齐放	王鑫钰	刘振扬 韦宇杰|https://github.com/dinglu1/thisname|  玩转食堂  |
 |5|彩虹小马|范艺琳（组长） 付饶 安琪 孟雪冰 郑宁宁 杨斯媛|https://github.com/fanyilin0128/SoftwareProcess|爱宠大机密|
 |6|stable|刘梦琪（组长） 牛薇薇 孟菲菲 孙立莹 李春柳|https://github.com/liumengqi1/soft-process|Palm Library|
-|7|TicTok|穆晓炜（组长） 吴慧霞 付举鹏 吴旭东 王鲁玉 陈若繁 廉千慧|https://github.com/Hsiau-wei/software-process|
+|7|TicTok|穆晓炜（组长） 吴慧霞 付举鹏 吴旭东 王鲁玉 陈若繁 廉千慧|https://github.com/Hsiau-wei/software-process|综合测评统计系统|
 |8|爱笑工作室|梁启文（组长） 李俊霞 郝帅虎 刘恒韧 苏文政|https://github.com/Liangqiwen123/UnitedGroup|
 |9|HelloWorld|张海波（组长） 杨旭辉 尚一飞 刘亚峰 杨少杰 黄亚鑫|https://github.com/zhanghaibo25/software-engineering|热度校园|
 |10|Tip	|孙艺凡（组长） 左子健 康祁鑫 刘鹏飞 赵建伟 苏浩然|https://github.com/syfan7561/Software-Engineering|考研通|
